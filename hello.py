@@ -1,0 +1,1 @@
+print("bubu bubu bubu")
